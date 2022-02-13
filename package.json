@@ -1,0 +1,17 @@
+{
+    "name": "com.koehl.unity",
+    "version": "0.0.0",
+    "displayName": "Koehl Unity",
+    "description": "Koehl Unity Package",
+    "unity": "2022.1",
+    "unityRelease": "0b7",
+    "documentationUrl": "https://github.com/koehl-games/com.koehl.unity/blob/main/Documentation~/Koehl.md",
+    "changelogUrl": "https://github.com/koehl-games/com.koehl.unity/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/koehl-games/com.koehl.unity/blob/main/LICENSE.md",
+    "dependencies": {},
+    "author": {
+        "name": "Koehl",
+        "email": "thekoehl@gmail.com",
+        "url": "https://thekoehl.github.io/"
+    }
+}
